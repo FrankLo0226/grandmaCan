@@ -1,0 +1,54 @@
+.subscribe{
+    color: white;
+    background-color: black;
+    width: 60px;
+    height: 36px;
+    border-radius: 18px;
+    border-style: none;
+    cursor: pointer;
+}
+
+.subscribe:hover{
+    background-color: rgb(31,31,31);
+}
+
+.subscribe:active{
+    background-color: rgb(61, 61, 61);
+}
+
+.thumb{
+    width: 60px;
+    height: 36px;
+    border-radius: 18px;
+    border-style: solid;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: rgb(195, 195, 195);
+    background-color: white;
+}
+
+.thumb:hover{
+    background-color: rgb(219, 219, 219);
+}
+
+.thumb:active{
+    background-color: rgb(173, 173, 173);
+}
+
+.share{
+    color: black;
+    background-color: rgb(204, 204, 204);
+    width: 60px;
+    height: 36px;
+    border-radius: 18px;
+    border-style: none;
+    cursor: pointer;
+}
+
+.share:hover{
+    background-color: rgb(190, 189, 189) ;
+}
+
+.share:active{
+    background-color: rgb(169, 169, 169) ;
+}
